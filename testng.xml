@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Cours4_AutomatisationTestNG">
+    <classes>
+      <class name="Pack1.MouveToTest"/>
+      <class name="Pack1.SendKeys"/>
+      <class name="Pack1.DoubleClickTest"/>
+      <class name="Pack1.LeftClickTest"/>
+      <class name="Pack1.ContextClickTest"/>
+      <class name="Pack1.DugAndDroop"/>
+    </classes>
+  </test> <!-- Cours4_AutomatisationTestNG -->
+</suite> <!-- Suite -->

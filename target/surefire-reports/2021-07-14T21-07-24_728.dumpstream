@@ -1,0 +1,4 @@
+# Created at 2021-07-14T21:07:26.254
+Boot Manifest-JAR contains absolute paths in classpath 'D:\SAMIR_WORKSPACE\ECLIPSE_WORKSPACE\Cours4_Automatisation2_ContextClickTest\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
